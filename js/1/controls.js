@@ -1,6 +1,6 @@
 const DISCOUNT_CODES = {
   'NEW02': 2,
-  'SAVE20': 20
+  'SAVE3': 3
 };
 
 // Network availability
